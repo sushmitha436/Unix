@@ -1,31 +1,31 @@
                                 UNIX COMMANDS
 
-    pwd------->print current working directory.
+  1.  pwd------->print current working directory.
      
-    cd--------->to change the directory.
+  2.  cd--------->to change the directory.
 
-    ls--------->to list the files in the present directory.
+  3.  ls--------->to list the files in the present directory.
 
-    touch------>to create a new file.
+  4.  touch------>to create a new file.
 
-    cat--------->to show the content which is present in the file.
+  5.  cat--------->to show the content which is present in the file.
 
-    chmod------->to modify the file permissions.
+  6.  chmod------->to modify the file permissions.
 
-    grep-------->to search a certain file.
+  7.  grep-------->to search a certain file.
 
-    |(pipe)-----> to connect two commands.
+  8.  |(pipe)-----> to connect two commands.
  
-    echo-------->to add the content to the file.
+  9.  echo-------->to add the content to the file.
  
-    vi---------->to create a new file+add content.
+  10.  vi---------->to create a new file+add content.
 
-    rm--------->to remove a file.
+  11.  rm--------->to remove a file.
 
-    rmdir------->to remove the folder.(empty)
+  12.  rmdir------->to remove the folder.(empty)
 
-    rm -r------->to remove the folder in recursive manner.(with content)
+  13.  rm -r------->to remove the folder in recursive manner.(with content)
 
-    cp----------->to copy the content.
+  14.  cp----------->to copy the content.
      
    
