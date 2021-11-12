@@ -1,4 +1,37 @@
-                                              VI-COMMANDS
+                                         VI-COMMANDS
                                               
                    COMMAND                                  REPRESENTATION
                    
+                   Esc+:+w+q                exits vi editor after saving the file
+                   
+                   Esc+:+q                  exits vi editor with out saving the file  
+
+                   u                        undo your last change
+
+                   U                        undo all changes
+
+                   o                        open a new file
+
+                   dd                       delete the current line where the curser is present
+
+                   dw                       delete word
+
+                   cw                       change word
+
+                   x                        delete character where curser is present
+
+                   r                        replace character
+
+                   :w                       save the file but file is in open state
+
+                   :q                       quit without saving
+
+                   :wq                      save the file and quit
+
+                   gg                       take your cursor to the first character of your first line
+
+                   dG                       delete all the lines or text inside the file
+
+                   /                        to search a word
+
+                  shift+zz                  save the file and quit
