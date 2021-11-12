@@ -1,37 +1,37 @@
                                          VI-COMMANDS
                                               
-                   COMMAND                                  REPRESENTATION
+                   COMMAND                                  DESCRIPTION
                    
-                   Esc+:+w+q                exits vi editor after saving the file
+               1.    Esc+:+w+q                exits vi editor after saving the file
                    
-                   Esc+:+q                  exits vi editor with out saving the file  
+               2.   Esc+:+q                  exits vi editor with out saving the file  
 
-                   u                        undo your last change
+               3.    u                        undo your last change
 
-                   U                        undo all changes
+               4.    U                        undo all changes
 
-                   o                        open a new file
+               5.   o                        open a new file
 
-                   dd                       delete the current line where the curser is present
+               6.    dd                       delete the current line where the curser is present
 
-                   dw                       delete word
+               7.    dw                       delete word
 
-                   cw                       change word
+               8.    cw                       change word
 
-                   x                        delete character where curser is present
+               9.    x                        delete character where curser is present
 
-                   r                        replace character
+              10.    r                        replace character
 
-                   :w                       save the file but file is in open state
+              11.     :w                       save the file but file is in open state
 
-                   :q                       quit without saving
+              12.     :q                       quit without saving
 
-                   :wq                      save the file and quit
+              13.     :wq                      save the file and quit
 
-                   gg                       take your cursor to the first character of your first line
+              14.     gg                       take your cursor to the first character of your first line
 
-                   dG                       delete all the lines or text inside the file
+              15.     dG                       delete all the lines or text inside the file
 
-                   /                        to search a word
+              16.     /                        to search a word
 
-                  shift+zz                  save the file and quit
+              17.    shift+zz                  save the file and quit
