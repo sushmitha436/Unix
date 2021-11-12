@@ -1,14 +1,14 @@
                                 UNIX COMMANDS
 
-  1.  pwd------->print current working directory.
+  1.  pwd------->display current working directory.
      
   2.  cd--------->to change the directory.
 
-  3.  ls--------->to list the files in the present directory.
+  3.  ls ---------->to list the files in the present directory.
 
-  4.  touch------>to create a new file.
+  4.  touch file------>to create a new file.
 
-  5.  cat--------->to show the content which is present in the file.
+  5.  cat file--------->to show the content which is present in the file.
 
   6.  chmod------->to modify the file permissions.
 
@@ -20,12 +20,26 @@
  
   10.  vi---------->to create a new file+add content.
 
-  11.  rm--------->to remove a file.
+  11.  rm file--------->to remove a file.
 
-  12.  rmdir------->to remove the folder.(empty)
+  12.  rmdir directory------->to remove the folder.(empty)
 
-  13.  rm -r------->to remove the folder in recursive manner.(with content)
+  13.  rm -r directory------->to remove the folder in recursive manner.(with content)
 
-  14.  cp----------->to copy the content.
+  14.  rm -f file---------->force removal of file without prompting for confirmation.
+
+  15.  rm -rf directory----->forcefully remove directory recursively.
+
+  16.  cp file1 file2----------->to copy file1 to file2.
      
-   
+  17.  ls -al------->list all files in a long listing format.
+
+  18.  mkdir directory----->create a directory.
+
+  19.  less file--------->browse through a text file.
+
+  20.  head file-------->display the first 10 lines of file.
+
+  21.  tail file-------->display the last 10 lines of file.
+
+  22.  tail -f file------>display the last 10 lines of file and "follow the file as it grows".
